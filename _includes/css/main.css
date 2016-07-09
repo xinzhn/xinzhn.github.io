@@ -52,12 +52,6 @@ pre {
 
 /* ----- base elements ----- */
 
-img {
-  max-width:100%!important;
-  height:auto;
-  vertical-align:middle;
-}
-
 hr {
   margin:60px auto;
   width:50%;
@@ -170,9 +164,8 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
-  background:url(img/bgnoise.png);
-  /* generated noise from noisetexturegenerator.com */
+  padding:1px 0;
+  background:none;
 }
 
 .section:first-of-type {
@@ -196,7 +189,7 @@ nav ul li:hover, nav ul li.active {
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
   box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
+  background:none;
 }
 
 .sectiondivider {
@@ -208,20 +201,6 @@ nav ul li:hover, nav ul li.active {
   left:50%;
   margin-left:-135px;
 }
-
-.sectiondivider img {
-  width:200px;
-  height:240px;
-  position: static;
-  margin-top: -20px;
-}
-
-.sectiondivider .fa-stack {
-  font-size: 130px;
-  position: static;
-  margin-top: -8px;
-}
-.sectiondivider .fa-circle { color: #fff; }
 
 .sectiondivider h5 {
   font-size:15px;
@@ -236,9 +215,6 @@ nav ul li:hover, nav ul li.active {
   width:240px;
 }
 
-.sectiondivider.imaged {
-  text-shadow: 1px 1px 3px #333;
-}
 
 
 .columned {
@@ -334,14 +310,6 @@ nav ul li:hover, nav ul li.active {
     padding:15px;
     top:-100px;
     margin-left:-100px;
-  }
-  .sectiondivider img {
-    width:150px;
-    height:180px;
-  }
-  .sectiondivider .fa-stack {
-    font-size: 100px;
-    margin-top: -14px;
   }
   .sectiondivider h5 {
     font-size:15px;
