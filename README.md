@@ -1,3 +1,2 @@
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+This is an academic personal website for Xin Zhang at University of New South Wales, Australia.
