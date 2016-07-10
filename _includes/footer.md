@@ -1,8 +1,10 @@
 
 
-[Xin Zhang](https://xinzhn.github.io/) 2016. Last updated on July 9, 2016.
+&copy;[Xin Zhang](https://xinzhn.github.io/) 2016. 
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Last updated on July 20, 2016.
 &mdash;
-this site is [open source](https://github.com/xinzhn/xinzhn.github.io)
+Powered by [Github](http://github.com),
+[Jekyll](https://jekyllrb.com) and
+[SinglePaged theme](https://github.com/t413/SinglePaged).
 
