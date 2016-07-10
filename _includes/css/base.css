@@ -99,7 +99,7 @@
 
 /* #Lists
 ================================================== */
-	ul, ol { margin-bottom: 20px; }
+	ul, ol { margin: 40px 0 20px 0; }
 	ul { list-style: none outside; }
 	ol { list-style: decimal; }
 	ul, ul.square { list-style: square outside; }
