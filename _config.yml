@@ -15,9 +15,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Xin Zhang @ UNSW"
-keywords:    "Xin Zhang, statistics, machine learning, symbolic data, MCMC"
-description: "An academic personal website for Xin Zhang in the University of New South Wales, Australia"
+title:       "Xin Zhang, PhD student in statistics and machine learning at UNSW"
+keywords:    "Xin Zhang, UNSW, statistics, machine learning, symbolic data, MCMC"
+description: "An academic website for Xin Zhang in the School of Mathematics and Statistics at the University of New South Wales, Australia."
 source_link: "https://github.com/xinzhn/xinzhn.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
